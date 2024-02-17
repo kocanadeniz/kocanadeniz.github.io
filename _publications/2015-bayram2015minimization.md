@@ -2,7 +2,6 @@
 title: "A Minimization Formulation for Source Separation with a Microphone Array"
 author: "Bayram, Ilker and Kocanaogullari, Aziz"
 collection: publications
-permalink: /publication/2018-tunga2018digital
 year: 2015
 volume: 
 pages: 1014--1017

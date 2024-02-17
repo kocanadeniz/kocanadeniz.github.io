@@ -2,7 +2,6 @@
 title: "Active Descriptor Learning for Feature Matching"
 author: "Kocanaogullari, Aziz and Ataer-Cansizoglu, Esra"
 collection: publications
-permalink: /publication/2018-tunga2018digital
 year: 2018
 volume: 
 pages: 

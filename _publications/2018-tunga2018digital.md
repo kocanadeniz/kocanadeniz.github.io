@@ -2,7 +2,6 @@
 title: "Digital image decomposition and contrast enhancement using high-dimensional model representation"
 author: "Tunga, Burcu and Kocanaogullari, Aziz"
 collection: publications
-permalink: /publication/2018-tunga2018digital
 year: 2018
 volume: 12
 pages: 299--306
