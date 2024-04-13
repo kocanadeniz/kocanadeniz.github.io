@@ -7,30 +7,30 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Aziz Kocanaogullari"
+title                    : "Deniz Kocanaogullari"
 title_separator          : "-"
-name                     : &name "Aziz Kocanaogullari"
+name                     : &name "Deniz Kocanaogullari"
 description              : &description "personal description"
-url                      : https://azizkocana.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kocanadeniz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author
 author:
-  name             : "Aziz Koçanaoğulları"
-  avatar           : "aziz.jpg"
-  bio              : "I am a machine learning and signal processing professional who codes and does math on a daily basis. 
+  name             : "Deniz Koçanaoğulları"
+  avatar           : "dk_temp.jpg"
+  bio              : "I am PhD candidate specialized in machine learning and signal processing who codes and does math on a daily basis. 
   My area of expertise is machine learning and AI applications in biomedical systems."
   pronouns         : # example: "she/her"
   location         : #"Location"
   orcid            : #""
-  employer         : "Analog Devices Inc."
-  email            :  "azizkocana@gmail.com"
+  employer         : "University of Pittsburgh"
+  email            :  "kocanadeniz@gmail.com"
   uri              :
 
   # Manuscript repositories
   arxiv            : # "https://arxiv.org/" # Update with the correct link to your profile
-  googlescholar    : https://scholar.google.com/citations?user=kZEj_OkAAAAJ&hl=en"         # Update with the correct link to your profile
+  googlescholar    : https://scholar.google.com/citations?user=SGCwAaIAAAAJ&hl=en"         # Update with the correct link to your profile
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -40,7 +40,7 @@ author:
   codepen          :
   dribbble         :
   facebook         :
-  flickr           :
+  flickr           :  
   foursquare       :
   github           : #"academicpages"
   goodreads        :

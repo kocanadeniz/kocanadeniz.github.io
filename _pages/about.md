@@ -7,20 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a machine learning and signal processing professional who codes and does math on a daily basis. I mainly work on deep learning, time series analysis, and computer vision. My focus is on machine learning and AI applied to biomedical systems. I have experience in a diverse set of biomedical applications, which include brain-computer interfaces, magnetic resonance imaging and reconstruction, diagnostic systems, and assistive monitoring systems. You can download my CV [[.pdf]](/files/kocanaogullari_cv.pdf).
+I am a 5th year PhD candidate who codes and does math on a daily basis. I mainly study deep learning, model quantization/pruning, time series analysis, computer vision and statistical signal processing. I have experience in a diverse set of biomedical data analysis, brain-computer interfaces and inverse imaging problems/image reconstruction. My CV can be found [[here]](/files/denizk_cv.pdf).
 
 My research interests include:
-1. Machine learning-guided time series analysis and reasoning.
-2. Deep learning applications for biomedical systems.
-3. Active inference and sequential decision-making.
-4. Information theoretic objective design.
 
-Since 2021, I have been working as a machine learning research scientist at [Analog Devices Inc.](https://www.analog.com/en/index.html). I am developing machine learning algorithms and AI for ADI's biological sensing platform to provide medical diagnostics. I have been enjoying working on cutting-edge technologies at the cross-section of signal processing, machine learning, and sensor fusion.
+1. Machine learning applications for biomedical modalities
+2. Model pruning and quantization
+3. Domain generalization/adaptation
+4. Bayesian inference and sequential decision making
 
-In 2020, I was a postdoctoral research associate at [Harvard Medical School](https://hms.harvard.edu/) and [Boston Children's Hospital](https://www.childrenshospital.org/) in [QUIN](https://research.childrenshospital.org/quin/)-[CRL](http://crl.med.harvard.edu/). The focus of my fellowship was deep learning methods for dynamic magnetic resonance imaging (MRI) reconstruction systems. I mainly worked on motion correction for fast image reconstruction from undersampled MRI.
 
-I received my Ph.D. in electrical engineering from [Northeastern University](https://www.northeastern.edu/) under [Prof. Deniz Erdogmus](https://web.northeastern.edu/deniz/) and co-advised by [Prof. Murat Akcakaya](https://sites.google.com/site/muratakcakaya/) in 2020. During my Ph.D., I was part of the Consortium for [Accessible Multimodal Brain-Body Interfaces](https://www.cambi.tech/), where our main aim was to provide accessible communication systems for people with speech impairments. I contributed to deep learning and AI-driven brain-computer-interfaced typing systems. My theoretical contributions were in sequential decision-making and active Bayesian inference.
+Since 2019, I have been doing my PhD in Electrical and Computer Engineering in [University of Pittsburgh](https://pitt.edu/) where I am a member of Signal Processing and Statistical Learning Lab under [Prof. Murat Akcakaya](https://sites.google.com/site/muratakcakaya/). My research projects' main aim were to build and provide an accessible spatial neglect detection and rehabilitation systems for stroke patients with neglect. I contributed to a deep learning and AI-driven augmented-reality supported brain-computer interface. My theoretical contributions were in active Bayesian inference and sequential decision making. 
 
-During my Ph.D. experience, I also attended the [Gordon Engineering Leadership Program](https://gordon.northeastern.edu/) and became a fellow. I received training in productization, market research, and technical leadership. My thesis was on the commercialization possibilities of brain-computer interfaces.
-
-I received my MSc. in telecommunications engineering from [Istanbul Technical University](https://www.itu.edu.tr/en) under [Ilker Bayram](https://ilkerbayram.github.io/) in 2016. I mainly focused on audio dereverberation and denoising with convex formulations. I also hold a BSc. in electronics engineering and a BSc. in math from Istanbul Technical University awarded in 2014 and 2015, respectively.
+I received my BSc in Electronics and Communications Engineering from [Istanbul Technical University](https://www.itu.edu.tr/en) under [Prof. Ender M. Eksioglu](https://web.itu.edu.tr/eksioglue/) in 2019. I mainly focused on inverse imaging problems, more specifically MRI reconstruction and super-resolution problems. 
