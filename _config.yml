@@ -13,14 +13,14 @@ name                     : &name "Deniz Kocanaogullari"
 description              : &description "personal description"
 url                      : https://kocanadeniz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "kocanadeniz/kocanadeniz.github.ioo"
 
 # Site Author
 author:
   name             : "Deniz Koçanaoğulları"
   avatar           : "dk_temp.jpg"
-  bio              : "I am PhD candidate specialized in machine learning and signal processing who codes and does math on a daily basis. 
-  My area of expertise is machine learning and AI applications in biomedical systems."
+  bio              : "I am a PhD candidate specialized in machine learning and signal processing who codes and does math on a daily basis. 
+  My areas of expertise are machine learning and AI applications in biomedical systems."
   pronouns         : # example: "she/her"
   location         : #"Location"
   orcid            : #""
@@ -196,7 +196,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -242,10 +242,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
